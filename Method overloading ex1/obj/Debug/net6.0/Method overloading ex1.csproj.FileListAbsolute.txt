@@ -1,0 +1,15 @@
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\bin\Debug\net6.0\Method overloading ex1.exe
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\bin\Debug\net6.0\Method overloading ex1.deps.json
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\bin\Debug\net6.0\Method overloading ex1.runtimeconfig.json
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\bin\Debug\net6.0\Method overloading ex1.dll
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\bin\Debug\net6.0\Method overloading ex1.pdb
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\obj\Debug\net6.0\Method overloading ex1.csproj.AssemblyReference.cache
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\obj\Debug\net6.0\Method overloading ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\obj\Debug\net6.0\Method overloading ex1.AssemblyInfoInputs.cache
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\obj\Debug\net6.0\Method overloading ex1.AssemblyInfo.cs
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\obj\Debug\net6.0\Method overloading ex1.csproj.CoreCompileInputs.cache
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\obj\Debug\net6.0\Method overloading ex1.dll
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\obj\Debug\net6.0\refint\Method overloading ex1.dll
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\obj\Debug\net6.0\Method overloading ex1.pdb
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\obj\Debug\net6.0\Method overloading ex1.genruntimeconfig.cache
+C:\Users\amirg\TCrepo\Method overloading ex1\Method overloading ex1\obj\Debug\net6.0\ref\Method overloading ex1.dll
